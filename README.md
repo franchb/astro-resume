@@ -1,13 +1,10 @@
-# astro-resume
+# Resume at cv.franchb.com
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/EmaSuriano/astro-resume/tree/latest)
-[![master](https://github.com/EmaSuriano/astro-resume/actions/workflows/master.yml/badge.svg)](https://github.com/EmaSuriano/astro-resume/actions/workflows/master.yml)
-![Dependabot status](https://badgen.net/github/dependabot/EmaSuriano/astro-resume)
+[![master](https://github.com/franchb/astro-resume/actions/workflows/master.yml/badge.svg)](https://github.com/EmaSuriano/astro-resume/actions/workflows/master.yml)
+![Dependabot status](https://badgen.net/github/dependabot/franchb/astro-resume)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3d621f0a-f078-4a5e-acca-f8c88b552223/deploy-status)](https://app.netlify.com/sites/astro-resume/deploys)
 
-> Resume builder based on [Markdown](https://www.markdownguide.org/) and [Tailwind CSS](https://tailwindcss.com/). Built with [Astro](https://astro.build/), and inspired by [Standard Resume](https://standardresume.co/).
-
-## [Demo](https://astro-resume.netlify.app)
+> Resume builder by [Ema Suriano](https://github.com/EmaSuriano) based on [Markdown](https://www.markdownguide.org/) and [Tailwind CSS](https://tailwindcss.com/). Built with [Astro](https://astro.build/), and inspired by [Standard Resume](https://standardresume.co/).
 
 ## Features
 
@@ -64,7 +61,7 @@ All commands are run from the root of the project, from a terminal:
 
 ## How to setup your own resume?
 
-- You can quickly clone this repository by clicking on [Use this template](https://github.com/EmaSuriano/astro-resume/generate).
+- You can quickly clone this repository by clicking on [Use this template](https://github.com/franchb/astro-resume/generate).
 - After your repository is created, you should modify [index.md](./src/pages/index.md) with your information.
 - Once you are done, push your changes into your repository.
 - Select any of the available options to deploy your websites. This project already provides the setup to deploy with Netlify, you can check [this guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) for more information.
@@ -75,4 +72,4 @@ Feel free to open issues or/and pull requests into this repository to improve it
 
 ## License
 
-MIT.
+Original work by [Ema Suriano](https://github.com/EmaSuriano) licensed with MIT.
