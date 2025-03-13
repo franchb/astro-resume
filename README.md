@@ -7,8 +7,6 @@
 
 > Resume builder based on [Markdown](https://www.markdownguide.org/) and [Tailwind CSS](https://tailwindcss.com/). Built with [Astro](https://astro.build/), and inspired by [Standard Resume](https://standardresume.co/).
 
-## [Demo](https://astro-resume.netlify.app)
-
 ## Features
 
 - Full Tailwind CSS integration with `@tailwindcss/typography` plugin
